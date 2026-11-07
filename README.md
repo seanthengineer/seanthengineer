@@ -85,20 +85,6 @@ I'm interested in how people approach difficult problems, make decisions under p
 Whether it's an ancient battlefield or a modern Formula 1 pit wall, I find the relationship between **strategy, information, and execution** endlessly fascinating.
 
 ---
-
-## 📊 My GitHub Journey
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&hide_rank=true&bg_color=0D1725&title_color=E7F0F7&text_color=B9CBDC&icon_color=D12C42" width="49%" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=6&hide_border=true&bg_color=0D1725&title_color=E7F0F7&text_color=B9CBDC" width="49%" alt="Most used programming languages" />
-
-</div>
-
----
-
-<div align="center">
-
 ### Always curious. Never finished learning.
 
 *Somewhere between the elegance of a well-designed machine and the satisfaction of making sense of complicated data, you'll probably find me.*
